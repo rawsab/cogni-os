@@ -27,3 +27,14 @@ Undertaking this interdisciplinary project resulted in the successful developmen
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45187177/214193015-52c354f4-f078-4fd8-8db0-c9cf6296fafd.png" alt="Cogni+OS Feature Descriptions" width="850"/>
 </p>
+
+## 📝 Research Highlights
+### Main takeaways from my research:
+
+- Children with cognition-affecting autism can get confused and become distressed if there are too many items on the screen.
+- They may have weaker reading skills, so icons and colours can allow for improved visual memory and easier navigation.
+- It is possible for children with severe autism to become distressed when switching focus, therefore slow and streamlined transitions are required.
+- Children with severe autism typically respond better to audio than text.
+- Children with autism commonly find some fonts, such as Helvetica and monospace fonts, easier to read than other fonts.
+- It is more difficult for children with severe autism to detect chromatic targets on a chromatic background, but it is easier for them to detect chromatic targets on a grayscale background.
+- Hypersensitivity is closely related to autism, so the colour yellow can be perceived as sensory-overloading.
