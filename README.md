@@ -8,7 +8,7 @@
 
 ### ⚙️ An interactive visual prototype for an operating system aimed at assisting children with Autism Spectrum Disorder (ASD) in using conventional desktop operating system interfaces more efficiently while minimizing the effects of autism-related hypersensitivity. 
 
-🔗 <a href="https://sites.google.com/view/cognios">Check out this link for more information!</a> (Cogni+OS Website)
+🔗 <a href="https://sites.google.com/view/cognios">Check out this link for more information! (Cogni+OS Website)</a>
 # 
 
 > For my **MYP Personal Project**, I designed and programmed a **prototype operating system** aimed at assisting children with Autism Spectrum Disorder (ASD) in using desktop operating system interfaces more efficiently while minimizing the effects of autism-related hypersensitivity. The project was targeted towards children of age 7 to 12 diagnosed with Level 2 ASD.
