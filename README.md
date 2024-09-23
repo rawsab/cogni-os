@@ -11,30 +11,32 @@
 🔗 <a href="https://sites.google.com/view/cognios">Check out this link for more information! (Cogni+OS Website)</a>
 # 
 
-> For my **MYP Personal Project**, I designed and programmed a **prototype operating system** aimed at assisting children with Autism Spectrum Disorder (ASD) in using desktop operating system interfaces more efficiently while minimizing the effects of autism-related hypersensitivity. The project was targeted towards children of age 7 to 12 diagnosed with Level 2 ASD.
+> For my **MYP Personal Project**, a **prototype operating system** was design and developed, aimed at assisting children with Autism Spectrum Disorder (ASD) in using desktop operating system interfaces more efficiently while minimizing the effects of autism-related hypersensitivity. The project was targeted towards children of age 7 to 12 diagnosed with Level 2 ASD.
 #####
 The **programming language Swift** was used to create a functional prototype of the user interface. Throughout the research process, I worked with **Alan Smerbeck**, an associate professor at the Rochester Institute of Technology, as well as **Sarah Jimenez**, a Board Certified Behavior Analyst and special-ed teacher. 
-
-Undertaking this interdisciplinary project resulted in the successful development of both knowledge-based and transferable personal skills such as structured and modular programming, graphic design, organizational skills, and efficient time management.
-
-## 
 
 <p align="center">
   <a href="https://youtu.be/bn2LEUgXxXM" target="_blank"><img src="https://user-images.githubusercontent.com/45187177/214192540-9b5b0fba-c01c-43f1-8e40-80ff57d8c5ae.png" alt="Cogni+OS YouTube Video" width="300" border="10" /></a>
 </p>
 
+## 🖥️ Running the Project
+
+1. Download the `cogni-os` directory to local device (macOS 10.15.4 or later required)
+2. Open the following executable: `cogni-os/CogniOS App Contents/Contents/MacOS/CogniOS Final`
+
+## 💡 Product Features
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45187177/214193015-52c354f4-f078-4fd8-8db0-c9cf6296fafd.png" alt="Cogni+OS Feature Descriptions" width="850"/>
 </p>
 
 ## 📝 Research Highlights
-### Main takeaways from my research:
+### Primary Research Takeaways:
 
-- Children with cognition-affecting autism can get confused and become distressed if there are too many items on the screen.
-- They may have weaker reading skills, so icons and colours can allow for improved visual memory and easier navigation.
-- It is possible for children with severe autism to become distressed when switching focus, therefore slow and streamlined transitions are required.
-- Children with severe autism typically respond better to audio than text.
-- Children with autism commonly find some fonts, such as Helvetica and monospace fonts, easier to read than other fonts.
-- It is more difficult for children with severe autism to detect chromatic targets on a chromatic background, but it is easier for them to detect chromatic targets on a grayscale background.
-- Hypersensitivity is closely related to autism, so the colour yellow can be perceived as sensory-overloading.
+- Children with autism spectrum disorder (ASD) who have cognitive impairments may experience confusion and distress when presented with an excessive number of items on-screen.
+- Due to potential deficits in reading skills, the use of icons and color schemes can enhance visual memory and facilitate navigation.
+- Children with severe autism often become distressed during abrupt focus shifts; therefore, slow and streamlined transitions are essential.
+- Research indicates that children with severe autism typically respond better to audio stimuli than to text-based information.
+- Children with autism frequently find certain fonts, such as Helvetica and monospace fonts, easier to read compared to other typefaces.
+- It is more challenging for children with severe autism to detect chromatic targets on a chromatic background; however, they can more easily identify chromatic targets on a grayscale background.
+- Hypersensitivity to sensory stimuli is commonly associated with autism, and colors like yellow may be perceived as sensory-overloading.
